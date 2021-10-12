@@ -1,0 +1,30 @@
+.form-edad{
+    height: 300px;
+    width: 300px;
+    background-color: chartreuse;
+    left: 35%;
+    position: relative;
+}
+
+.txt{
+    padding: 10px;
+    border-radius: 5px;
+    border:0px;
+    width: 200px;
+    background-color: rgb(224, 247, 202);
+    margin: 15px;
+    align-items: center;
+}
+
+#botonVotar{
+    padding: 10px;
+    border-radius: 5px;
+    border:0px;
+    width: 200px;
+    margin: 15px;
+}
+#Mensaje{
+    color: #fff;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
